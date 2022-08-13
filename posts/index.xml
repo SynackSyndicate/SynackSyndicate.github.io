@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Vien Amor V.</title>
+    <link>https://synacksyndicate.github.io/posts/</link>
+    <description>Recent content in Posts on Vien Amor V.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Aug 2022 12:51:50 -1000</lastBuildDate><atom:link href="https://synacksyndicate.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>https://synacksyndicate.github.io/posts/welcome/</link>
+      <pubDate>Fri, 12 Aug 2022 12:51:50 -1000</pubDate>
+      
+      <guid>https://synacksyndicate.github.io/posts/welcome/</guid>
+      <description>Hi all! Welcome to my website. During your stay here, you’ll find my cybersecurity work through various different platforms. Most of them will be hands-on-labs. I do both Blue and Red Team practical labs. Also, feel free to connect on LinkedIn or Discord, I’m always down to make new friends!
+My goal and intent is to provide real experiences that I’ve have gone through and to help others who are also in my position beginning their route in cybersecurity.</description>
+    </item>
+    
+  </channel>
+</rss>
