@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Vien Amor V.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Aug 2022 12:51:50 -1000</lastBuildDate><atom:link href="https://synacksyndicate.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 02:21:41 -1000</lastBuildDate><atom:link href="https://synacksyndicate.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Threat Intelligence</title>
+      <link>https://synacksyndicate.github.io/posts/threatintelligence/</link>
+      <pubDate>Mon, 15 Aug 2022 02:21:41 -1000</pubDate>
+      
+      <guid>https://synacksyndicate.github.io/posts/threatintelligence/</guid>
+      <description>Threat Intelligence is so vast and conceptual that it really is hard to grasp what exactly it is. Some say, it&amp;rsquo;s reading and writing reports; others might say, actively looking at the cyberlandscape and determine trends; and some might also not know what exactly what they do.
+Here&amp;rsquo;s my perspective, a good Cyber Threat Intelligence Team (CTI) provides an organization confident research of the landscape to determine better business decisions. Do they research and write reports?</description>
+    </item>
+    
     <item>
       <title>Welcome!</title>
       <link>https://synacksyndicate.github.io/posts/welcome/</link>
